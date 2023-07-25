@@ -1,0 +1,104 @@
+[
+    {
+        "obj": "task_1.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 1030
+    },
+    {
+        "obj": "task_1.txt",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 275
+    },
+    {
+        "obj": "task_2.json",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 126
+    },
+    {
+        "obj": "task_2.pickle",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 70
+    },
+    {
+        "obj": "task_2.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 1316
+    },
+    {
+        "obj": "task_3.csv",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 45
+    },
+    {
+        "obj": "task_3.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 896
+    },
+    {
+        "obj": "task_4.json",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 390
+    },
+    {
+        "obj": "task_4.pickle",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 170
+    },
+    {
+        "obj": "task_4.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 1598
+    },
+    {
+        "obj": "task_5.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 697
+    },
+    {
+        "obj": "task_6.csv",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 163
+    },
+    {
+        "obj": "task_6.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 978
+    },
+    {
+        "obj": "task_7.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 809
+    },
+    {
+        "obj": "task_homework.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 3587
+    },
+    {
+        "obj": "__init__.py",
+        "parent": "Seminar_8",
+        "obj_type": "file",
+        "size": 97
+    },
+    {
+        "obj": "Seminar_8",
+        "parent": "HW_8",
+        "obj_type": "dir",
+        "size": 12247
+    }
+]
